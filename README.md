@@ -28,8 +28,7 @@ This project aims to design a microstrip patch antenna operating near 28 GHz (ad
 ```
 Microstrip_Patch_Antenna_Simulation/
 ├─ design_files/
-│  ├─ Project1.aedt
-│  └─ Project1.aedtresults/
+│  └─ Project1.aedt
 │
 ├─ scripts/
 │  ├─ analyze_S11.py
