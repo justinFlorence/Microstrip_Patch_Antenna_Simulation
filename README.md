@@ -160,17 +160,4 @@ If your target frequency is not well-matched or the radiation pattern is not as 
 
 ---
 
-## Documentation
-
-- **README.md**: This document offers a quick start guide and an overview of the project.
-- **report.pdf** (optional): A detailed report can include theoretical background, design equations, parametric studies, and final results. Place it in the `docs` folder.
-
----
-
-## License
-
-Include a `LICENSE` file if you plan on sharing this project publicly under an open-source license. Common choices include MIT, BSD, or GPL.
-
----
-
 **By following this workflow, you can quickly iterate on your antenna design, visualize key performance metrics, and refine the geometry until you achieve your desired performance at your target frequency.**
